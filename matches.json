@@ -1,0 +1,982 @@
+[
+    {
+        "round": "255955",
+        "match": "300186474",
+        "teams": [
+            {
+                "id": "43924",
+                "name": "Brazil"
+            },
+            {
+                "id": "43948",
+                "name": "Germany"
+            }
+        ]
+    },
+    {
+        "round": "255955",
+        "match": "300186490",
+        "teams": [
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            },
+            {
+                "id": "43922",
+                "name": "Argentina"
+            }
+        ]
+    },
+    {
+        "round": "255957",
+        "match": "300186502",
+        "teams": [
+            {
+                "id": "43924",
+                "name": "Brazil"
+            },
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            }
+        ]
+    },
+    {
+        "round": "255959",
+        "match": "300186501",
+        "teams": [
+            {
+                "id": "43948",
+                "name": "Germany"
+            },
+            {
+                "id": "43922",
+                "name": "Argentina"
+            }
+        ]
+    },
+    {
+        "round": "255957",
+        "match": "300186502",
+        "teams": [
+            {
+                "id": "43924",
+                "name": "Brazil"
+            },
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            }
+        ]
+    },
+    {
+        "round": "255955",
+        "match": "300186490",
+        "teams": [
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            },
+            {
+                "id": "43922",
+                "name": "Argentina"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186456",
+        "teams": [
+            {
+                "id": "43924",
+                "name": "Brazil"
+            },
+            {
+                "id": "43938",
+                "name": "Croatia"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186492",
+        "teams": [
+            {
+                "id": "43911",
+                "name": "Mexico"
+            },
+            {
+                "id": "43849",
+                "name": "Cameroon"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186510",
+        "teams": [
+            {
+                "id": "43969",
+                "name": "Spain"
+            },
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186473",
+        "teams": [
+            {
+                "id": "43925",
+                "name": "Chile"
+            },
+            {
+                "id": "43976",
+                "name": "Australia"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186471",
+        "teams": [
+            {
+                "id": "43926",
+                "name": "Colombia"
+            },
+            {
+                "id": "43949",
+                "name": "Greece"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186489",
+        "teams": [
+            {
+                "id": "43930",
+                "name": "Uruguay"
+            },
+            {
+                "id": "43901",
+                "name": "Costa Rica"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186513",
+        "teams": [
+            {
+                "id": "43942",
+                "name": "England"
+            },
+            {
+                "id": "43954",
+                "name": "Italy"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186507",
+        "teams": [
+            {
+                "id": "43854",
+                "name": "Côte d'Ivoire"
+            },
+            {
+                "id": "43819",
+                "name": "Japan"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186494",
+        "teams": [
+            {
+                "id": "43971",
+                "name": "Switzerland"
+            },
+            {
+                "id": "43927",
+                "name": "Ecuador"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186496",
+        "teams": [
+            {
+                "id": "43946",
+                "name": "France"
+            },
+            {
+                "id": "43909",
+                "name": "Honduras"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186477",
+        "teams": [
+            {
+                "id": "43922",
+                "name": "Argentina"
+            },
+            {
+                "id": "44037",
+                "name": "Bosnia and Herzegovina"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186475",
+        "teams": [
+            {
+                "id": "43948",
+                "name": "Germany"
+            },
+            {
+                "id": "43963",
+                "name": "Portugal"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186505",
+        "teams": [
+            {
+                "id": "43817",
+                "name": "Iran"
+            },
+            {
+                "id": "43876",
+                "name": "Nigeria"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186512",
+        "teams": [
+            {
+                "id": "43860",
+                "name": "Ghana"
+            },
+            {
+                "id": "43921",
+                "name": "USA"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186479",
+        "teams": [
+            {
+                "id": "43935",
+                "name": "Belgium"
+            },
+            {
+                "id": "43843",
+                "name": "Algeria"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186509",
+        "teams": [
+            {
+                "id": "43924",
+                "name": "Brazil"
+            },
+            {
+                "id": "43911",
+                "name": "Mexico"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186499",
+        "teams": [
+            {
+                "id": "43965",
+                "name": "Russia"
+            },
+            {
+                "id": "43822",
+                "name": "Korea Republic"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186478",
+        "teams": [
+            {
+                "id": "43976",
+                "name": "Australia"
+            },
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186498",
+        "teams": [
+            {
+                "id": "43969",
+                "name": "Spain"
+            },
+            {
+                "id": "43925",
+                "name": "Chile"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186453",
+        "teams": [
+            {
+                "id": "43849",
+                "name": "Cameroon"
+            },
+            {
+                "id": "43938",
+                "name": "Croatia"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186468",
+        "teams": [
+            {
+                "id": "43926",
+                "name": "Colombia"
+            },
+            {
+                "id": "43854",
+                "name": "Côte d'Ivoire"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186486",
+        "teams": [
+            {
+                "id": "43930",
+                "name": "Uruguay"
+            },
+            {
+                "id": "43942",
+                "name": "England"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186454",
+        "teams": [
+            {
+                "id": "43819",
+                "name": "Japan"
+            },
+            {
+                "id": "43949",
+                "name": "Greece"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186500",
+        "teams": [
+            {
+                "id": "43954",
+                "name": "Italy"
+            },
+            {
+                "id": "43901",
+                "name": "Costa Rica"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186514",
+        "teams": [
+            {
+                "id": "43971",
+                "name": "Switzerland"
+            },
+            {
+                "id": "43946",
+                "name": "France"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186463",
+        "teams": [
+            {
+                "id": "43909",
+                "name": "Honduras"
+            },
+            {
+                "id": "43927",
+                "name": "Ecuador"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186466",
+        "teams": [
+            {
+                "id": "43922",
+                "name": "Argentina"
+            },
+            {
+                "id": "43817",
+                "name": "Iran"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186493",
+        "teams": [
+            {
+                "id": "43948",
+                "name": "Germany"
+            },
+            {
+                "id": "43860",
+                "name": "Ghana"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186511",
+        "teams": [
+            {
+                "id": "43876",
+                "name": "Nigeria"
+            },
+            {
+                "id": "44037",
+                "name": "Bosnia and Herzegovina"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186481",
+        "teams": [
+            {
+                "id": "43935",
+                "name": "Belgium"
+            },
+            {
+                "id": "43965",
+                "name": "Russia"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186495",
+        "teams": [
+            {
+                "id": "43822",
+                "name": "Korea Republic"
+            },
+            {
+                "id": "43843",
+                "name": "Algeria"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186483",
+        "teams": [
+            {
+                "id": "43921",
+                "name": "USA"
+            },
+            {
+                "id": "43963",
+                "name": "Portugal"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186470",
+        "teams": [
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            },
+            {
+                "id": "43925",
+                "name": "Chile"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186467",
+        "teams": [
+            {
+                "id": "43976",
+                "name": "Australia"
+            },
+            {
+                "id": "43969",
+                "name": "Spain"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186472",
+        "teams": [
+            {
+                "id": "43849",
+                "name": "Cameroon"
+            },
+            {
+                "id": "43924",
+                "name": "Brazil"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186452",
+        "teams": [
+            {
+                "id": "43938",
+                "name": "Croatia"
+            },
+            {
+                "id": "43911",
+                "name": "Mexico"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186465",
+        "teams": [
+            {
+                "id": "43954",
+                "name": "Italy"
+            },
+            {
+                "id": "43930",
+                "name": "Uruguay"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186484",
+        "teams": [
+            {
+                "id": "43901",
+                "name": "Costa Rica"
+            },
+            {
+                "id": "43942",
+                "name": "England"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186457",
+        "teams": [
+            {
+                "id": "43819",
+                "name": "Japan"
+            },
+            {
+                "id": "43926",
+                "name": "Colombia"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186455",
+        "teams": [
+            {
+                "id": "43949",
+                "name": "Greece"
+            },
+            {
+                "id": "43854",
+                "name": "Côte d'Ivoire"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186458",
+        "teams": [
+            {
+                "id": "43876",
+                "name": "Nigeria"
+            },
+            {
+                "id": "43922",
+                "name": "Argentina"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186464",
+        "teams": [
+            {
+                "id": "44037",
+                "name": "Bosnia and Herzegovina"
+            },
+            {
+                "id": "43817",
+                "name": "Iran"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186482",
+        "teams": [
+            {
+                "id": "43909",
+                "name": "Honduras"
+            },
+            {
+                "id": "43971",
+                "name": "Switzerland"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186515",
+        "teams": [
+            {
+                "id": "43927",
+                "name": "Ecuador"
+            },
+            {
+                "id": "43946",
+                "name": "France"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186476",
+        "teams": [
+            {
+                "id": "43963",
+                "name": "Portugal"
+            },
+            {
+                "id": "43860",
+                "name": "Ghana"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186469",
+        "teams": [
+            {
+                "id": "43921",
+                "name": "USA"
+            },
+            {
+                "id": "43948",
+                "name": "Germany"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186480",
+        "teams": [
+            {
+                "id": "43822",
+                "name": "Korea Republic"
+            },
+            {
+                "id": "43935",
+                "name": "Belgium"
+            }
+        ]
+    },
+    {
+        "round": "255931",
+        "match": "300186506",
+        "teams": [
+            {
+                "id": "43843",
+                "name": "Algeria"
+            },
+            {
+                "id": "43965",
+                "name": "Russia"
+            }
+        ]
+    },
+    {
+        "round": "255951",
+        "match": "300186487",
+        "teams": [
+            {
+                "id": "43924",
+                "name": "Brazil"
+            },
+            {
+                "id": "43925",
+                "name": "Chile"
+            }
+        ]
+    },
+    {
+        "round": "255951",
+        "match": "300186491",
+        "teams": [
+            {
+                "id": "43926",
+                "name": "Colombia"
+            },
+            {
+                "id": "43930",
+                "name": "Uruguay"
+            }
+        ]
+    },
+    {
+        "round": "255951",
+        "match": "300186508",
+        "teams": [
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            },
+            {
+                "id": "43911",
+                "name": "Mexico"
+            }
+        ]
+    },
+    {
+        "round": "255951",
+        "match": "300186459",
+        "teams": [
+            {
+                "id": "43901",
+                "name": "Costa Rica"
+            },
+            {
+                "id": "43949",
+                "name": "Greece"
+            }
+        ]
+    },
+    {
+        "round": "255951",
+        "match": "300186462",
+        "teams": [
+            {
+                "id": "43946",
+                "name": "France"
+            },
+            {
+                "id": "43876",
+                "name": "Nigeria"
+            }
+        ]
+    },
+    {
+        "round": "255951",
+        "match": "300186460",
+        "teams": [
+            {
+                "id": "43948",
+                "name": "Germany"
+            },
+            {
+                "id": "43843",
+                "name": "Algeria"
+            }
+        ]
+    },
+    {
+        "round": "255951",
+        "match": "300186503",
+        "teams": [
+            {
+                "id": "43922",
+                "name": "Argentina"
+            },
+            {
+                "id": "43971",
+                "name": "Switzerland"
+            }
+        ]
+    },
+    {
+        "round": "255951",
+        "match": "300186497",
+        "teams": [
+            {
+                "id": "43935",
+                "name": "Belgium"
+            },
+            {
+                "id": "43921",
+                "name": "USA"
+            }
+        ]
+    },
+    {
+        "round": "255953",
+        "match": "300186485",
+        "teams": [
+            {
+                "id": "43946",
+                "name": "France"
+            },
+            {
+                "id": "43948",
+                "name": "Germany"
+            }
+        ]
+    },
+    {
+        "round": "255953",
+        "match": "300186461",
+        "teams": [
+            {
+                "id": "43924",
+                "name": "Brazil"
+            },
+            {
+                "id": "43926",
+                "name": "Colombia"
+            }
+        ]
+    },
+    {
+        "round": "255953",
+        "match": "300186504",
+        "teams": [
+            {
+                "id": "43922",
+                "name": "Argentina"
+            },
+            {
+                "id": "43935",
+                "name": "Belgium"
+            }
+        ]
+    },
+    {
+        "round": "255953",
+        "match": "300186488",
+        "teams": [
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            },
+            {
+                "id": "43901",
+                "name": "Costa Rica"
+            }
+        ]
+    },
+    {
+        "round": "255955",
+        "match": "300186474",
+        "teams": [
+            {
+                "id": "43924",
+                "name": "Brazil"
+            },
+            {
+                "id": "43948",
+                "name": "Germany"
+            }
+        ]
+    },
+    {
+        "round": "255955",
+        "match": "300186490",
+        "teams": [
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            },
+            {
+                "id": "43922",
+                "name": "Argentina"
+            }
+        ]
+    },
+    {
+        "round": "255957",
+        "match": "300186502",
+        "teams": [
+            {
+                "id": "43924",
+                "name": "Brazil"
+            },
+            {
+                "id": "43960",
+                "name": "Netherlands"
+            }
+        ]
+    },
+    {
+        "round": "255959",
+        "match": "300186501",
+        "teams": [
+            {
+                "id": "43948",
+                "name": "Germany"
+            },
+            {
+                "id": "43922",
+                "name": "Argentina"
+            }
+        ]
+    }
+]
