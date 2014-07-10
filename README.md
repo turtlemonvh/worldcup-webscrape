@@ -16,6 +16,10 @@ The data I'd pull out of this:
 * team id
 * team name
 
+*Note*
+
+All the international player names wreak havok on the form of this data.  I tried to clean up the character set a few times and was unsuccessful.  I'd probably end up using a regex on the string of the file to pull out the minimal data I want.
+
 ## Matches
 
 Match list from: http://www.fifa.com/worldcup/matches/index.html
